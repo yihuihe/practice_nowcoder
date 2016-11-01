@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475591850 source:e:\dpan\牛客网\华为\表示数字\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
